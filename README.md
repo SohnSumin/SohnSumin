@@ -1,48 +1,67 @@
-# 🌏 EARFQUAKE
-**Tyler, The Creator** (feat. Playboi Carti)
+<div align="left">
+
+# Sumin Sohn
+**Security-Centric Fullstack Explorer**
+
+</div>
 
 ---
 
-### 🎙️ [INTRO]
-*For real, for real this time* *For real, for real, for real this time* **Bitch, I cannot fall short** *For real, for real, for real this time (Uh, yeah)* *For real, for real, for real this time*
+### 🚀 Journey & Values
+> *"Beyond just coding, I focus on the synergy between people and technology."*
+
+* 🏛️ **Academic Focus** : Currently majoring in **Computer Science & Engineering** at Kyung Hee University.
+* ⚡ **Challenge Driven** : I don't just solve problems; I embrace the friction of **new challenges** as a fuel for growth.
+* 🧠 **AI Flow** : Deep-diving into the **entire lifecycle of AI services**, ensuring they are both smart and secure.
+* 🧬 **Synergy Believer** : Committed to the belief that **collaboration** creates a total that is greater than the sum of its parts.
 
 ---
 
-### 🔊 [CHORUS]
-> ## 'Cause you make my EARTH QUAKE
-> ## Oh, you make my EARTH QUAKE
-> *Riding around, your love be shakin’ me up* > **And it's making my heart break** >
-> 'Cause you make my **earth quake** (Earthquake, ooh)  
-> Oh, you make my **earth quake** > *Riding around, your love be shakin’ me up* > **And it's making my heart break**
+### 🛠 Tech Toolbox
+
+**Languages & Logic**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+</p>
+
+**Product Engineering (FE/BE)**
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/FastAPI-05998B?style=flat-square&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
+</p>
+
+**Data & Infrastructure**
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+</p>
 
 ---
 
-### 💭 [REFRAIN]
-* `Don't leave, it's my fault`
-* `Don't leave, it's my fault`
-* `Don't leave, it's my fault (Girl)`
-* **’Cause when it all comes crashing down, I’ll need you**
+### 🎓 Experience & Activities
+
+* **인천하늘고등학교 무한상상과정 자율주행자동차 트랙** | (2019.09 - 2020.02)
+* **경희대학교 컴퓨터공학과 학술동아리 HACKER** | (2021.03 - 현재)
+* **경희대학교 컴퓨터공학과** | 21학번 (2021.03 - 현재)
+* **경희대학교 보안 동아리 HACKHU** | (2026.03 - 현재)
+* **제2회 경희대학교 세모톤(Semothon) 장려상 수상** | (2026.04)
 
 ---
 
-### 🌩️ [VERSE: PLAYBOI CARTI]
-*We ain't gotta ball, **D-Rose**, huh* *I don't give a fuck 'bout nothin', huh* *Breathin' like fuck my lungs, huh* *Just might call my lawyer, huh* `Plug gon' set me up, huh (Yeah)`  
-`Bitch, don't set me up (Okay)`  
-**I'm with Tyler, yeah (Slime)** *He ride like the car, huh* *And she wicked, huh, yeah* *Like **Woah Vicky**, huh, yeah* **Oh my God, hold up, um** `These diamonds not Tiffany, huh, yeah`  
-***So in love (I been so in love)*** ---
+### 📈 Contribution Insights
 
-### 🎹 [BRIDGE]
-> I don't want no **confrontation**, no  
-> And you don't want my **conversation** > I just need some **confirmation** on how you feel, ***for real*** >
-> You don't want no **complication**, no  
-> I don't want no **side information** > I just need to know what's happening 'cause I'm ***for real***
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumin0218&layout=compact&theme=buefy" alt="Langs" />
+</p>
 
 ---
 
-### 🚪 [OUTRO]
-1. `I said don't leave, it's my fault (One)`
-2. `I said don't leave, it's my fault (Two, two)`
-3. `Don't leave, it's, it's my fault, girl (Three, three, three)`
-* **Don't, do-do-do-do-do, I'll need—**
-
----
+### 💬 Let's Connect
+* 📧 **Email** : sumin0218@khu.ac.kr
+* 🤝 **Open to collaboration and interesting discussions!**
