@@ -2,6 +2,7 @@
 
 # Sumin Sohn
 </div>
+
 ### 🚀 Journey & Values
 > *"Beyond just coding, I focus on the synergy between people and technology."*
 
