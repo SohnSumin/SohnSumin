@@ -1,12 +1,7 @@
 <div align="left">
 
 # Sumin Sohn
-**Security-Centric Fullstack Explorer**
-
 </div>
-
----
-
 ### 🚀 Journey & Values
 > *"Beyond just coding, I focus on the synergy between people and technology."*
 
@@ -43,6 +38,13 @@
 </p>
 
 ---
+### 📈 Contribution Insights
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumin0218&layout=compact&theme=buefy" alt="Langs" />
+</p>
+
+---
 
 ### 🎓 Experience & Activities
 
@@ -54,13 +56,7 @@
 
 ---
 
-### 📈 Contribution Insights
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumin0218&layout=compact&theme=buefy" alt="Langs" />
-</p>
-
----
 
 ### 💬 Let's Connect
 * 📧 **Email** : sumin0218@khu.ac.kr
